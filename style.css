@@ -1,0 +1,9 @@
+body {
+
+    background-image: url('images/darkbg.jpg');
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    font-family:'Merriweather', serif;
+    font-size: x-large;
+    color: rgb(61, 61, 61);
+}
